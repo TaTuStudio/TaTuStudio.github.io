@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T06:59:05.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.3.3" etag="QqHRNJ_R1tIpBTGDFmgd" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T07:26:24.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="DG2s1RWUCwTjes0tz-uS" version="21.3.3" type="github">
   <diagram name="Page-1" id="hVRQzd9CAUhbPmyJtPIS">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8SlsdoJzeLmdomkiOKk8-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8SlsdoJzeLmdomkiOKk8-1" target="8SlsdoJzeLmdomkiOKk8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8SlsdoJzeLmdomkiOKk8-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8SlsdoJzeLmdomkiOKk8-1" target="8SlsdoJzeLmdomkiOKk8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8SlsdoJzeLmdomkiOKk8-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8SlsdoJzeLmdomkiOKk8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8SlsdoJzeLmdomkiOKk8-2" target="8SlsdoJzeLmdomkiOKk8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8SlsdoJzeLmdomkiOKk8-2" value="&lt;b&gt;Buy &lt;/b&gt;&lt;br&gt;Genesis Box &lt;br&gt;Group A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8SlsdoJzeLmdomkiOKk8-3" value="Mint&lt;br&gt;Genesis Hash&lt;br&gt;Faireaf " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8SlsdoJzeLmdomkiOKk8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8SlsdoJzeLmdomkiOKk8-4" target="8SlsdoJzeLmdomkiOKk8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8SlsdoJzeLmdomkiOKk8-4" value="&lt;b&gt;Regenerate&amp;nbsp;&lt;br&gt;&lt;/b&gt;Genesis Hash&lt;br&gt;Faireaf " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8SlsdoJzeLmdomkiOKk8-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8SlsdoJzeLmdomkiOKk8-5" target="8SlsdoJzeLmdomkiOKk8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8SlsdoJzeLmdomkiOKk8-5" value="Mint&lt;br&gt;Monster&lt;br&gt;Faireaf" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8SlsdoJzeLmdomkiOKk8-6" value="Random parameter &lt;br&gt;or &lt;br&gt;Fail" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
