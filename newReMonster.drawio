@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.13">
   <diagram name="Page-1" id="riVb506h1pAvsger1tHK">
-    <mxGraphModel dx="2097" dy="1771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3056" dy="2288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7LDQSDmz3teYoH1LVkY4-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="-10" width="482" height="980" as="geometry" />
+          <mxGeometry x="40" y="10" width="562" height="980" as="geometry" />
         </mxCell>
         <mxCell id="7LDQSDmz3teYoH1LVkY4-73" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="830" width="380" height="120" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="640" y="500" width="140" height="410" as="geometry" />
         </mxCell>
         <mxCell id="7LDQSDmz3teYoH1LVkY4-3" value="ReMonster Registry" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Container_Registries.svg;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="349" width="68" height="61" as="geometry" />
+          <mxGeometry x="-150.28" y="372" width="68" height="61" as="geometry" />
         </mxCell>
         <mxCell id="7LDQSDmz3teYoH1LVkY4-4" value="AKS ReMonster" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" parent="1" vertex="1">
           <mxGeometry x="-90" y="-140" width="68" height="60" as="geometry" />
@@ -121,11 +121,14 @@
         <mxCell id="7LDQSDmz3teYoH1LVkY4-69" value="Player Upload" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" parent="1" vertex="1">
           <mxGeometry x="1058" y="697" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="F7SO71zOL6z4TsnCkw2o-1" value="Ingress Controller" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.svgrepo.com/show/373924/nginx.svg;" vertex="1" parent="1">
-          <mxGeometry x="221" y="210" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="F7SO71zOL6z4TsnCkw2o-3" value="Let&#39;s Encrypt" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/lets-encrypt-icon.svg;" vertex="1" parent="1">
-          <mxGeometry x="-142.57" y="495" width="52.57" height="55" as="geometry" />
+          <mxGeometry x="-150.28" y="550" width="52.57" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="F7SO71zOL6z4TsnCkw2o-4" value="Cert Manager" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/cert-manager/cert-manager/master/logo/logo-small.png;" vertex="1" parent="1">
+          <mxGeometry x="120" y="433" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F7SO71zOL6z4TsnCkw2o-5" value="Ingress Controller" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=ing" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="50" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
