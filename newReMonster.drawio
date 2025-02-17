@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.13">
   <diagram name="Page-1" id="riVb506h1pAvsger1tHK">
-    <mxGraphModel dx="2762" dy="2129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2359" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,24 +75,6 @@
         </mxCell>
         <mxCell id="7LDQSDmz3teYoH1LVkY4-26" value="&lt;div&gt;Game Test FE&lt;div&gt;&lt;/div&gt;test.remonster.world&lt;/div&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" parent="1" vertex="1">
           <mxGeometry x="246" y="730" width="50" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="7LDQSDmz3teYoH1LVkY4-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7LDQSDmz3teYoH1LVkY4-26" target="7LDQSDmz3teYoH1LVkY4-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7LDQSDmz3teYoH1LVkY4-52" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7LDQSDmz3teYoH1LVkY4-25" target="7LDQSDmz3teYoH1LVkY4-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7LDQSDmz3teYoH1LVkY4-53" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7LDQSDmz3teYoH1LVkY4-24" target="7LDQSDmz3teYoH1LVkY4-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7LDQSDmz3teYoH1LVkY4-54" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7LDQSDmz3teYoH1LVkY4-7" target="7LDQSDmz3teYoH1LVkY4-38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7LDQSDmz3teYoH1LVkY4-55" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7LDQSDmz3teYoH1LVkY4-15" target="7LDQSDmz3teYoH1LVkY4-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7LDQSDmz3teYoH1LVkY4-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7LDQSDmz3teYoH1LVkY4-16" target="7LDQSDmz3teYoH1LVkY4-36" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7LDQSDmz3teYoH1LVkY4-63" value="File" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Azure_Fileshare.svg;" parent="1" vertex="1">
           <mxGeometry x="730" y="899" width="68" height="68" as="geometry" />
@@ -188,16 +170,16 @@
           <mxGeometry x="240" y="-423.5" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="F7SO71zOL6z4TsnCkw2o-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-120" width="170" height="300" as="geometry" />
+          <mxGeometry x="386" y="-120" width="170" height="300" as="geometry" />
         </mxCell>
         <mxCell id="F7SO71zOL6z4TsnCkw2o-44" value="Marketplace API Mainnet&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;marketplace-&lt;/span&gt;api&lt;/div&gt;&lt;div&gt;.remonster.world&lt;/div&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
-          <mxGeometry x="440" y="-110" width="50" height="48" as="geometry" />
+          <mxGeometry x="446" y="-110" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="F7SO71zOL6z4TsnCkw2o-45" value="Marketplace API Staging&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;marketplace-&lt;/span&gt;api-staging&lt;/div&gt;&lt;div&gt;.remonster.world&lt;/div&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
-          <mxGeometry x="440" y="-18" width="50" height="48" as="geometry" />
+          <mxGeometry x="446" y="-18" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="F7SO71zOL6z4TsnCkw2o-46" value="Marketplace API Testnet&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;marketplace-&lt;/span&gt;api-testnet&lt;/div&gt;&lt;div&gt;.remonster.world&lt;/div&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
-          <mxGeometry x="440" y="80" width="50" height="48" as="geometry" />
+          <mxGeometry x="446" y="80" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="F7SO71zOL6z4TsnCkw2o-48" value="blockchain-remonster-testnet" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="680" y="353" width="70" height="80" as="geometry" />
